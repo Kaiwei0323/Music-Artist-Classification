@@ -1,5 +1,5 @@
 # Music-Artist-Classification
-## introduction
+## Introduction
 ---
 Classified the input music files and output the accurate result with Convolutional Neural Network.
 ## Contribution
